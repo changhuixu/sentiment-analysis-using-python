@@ -24,7 +24,7 @@ python naive.py
 ![L1_1](https://github.com/changhuixu/sentiment-analysis-using-python/blob/master/naive/naive-demo-screenshot.png "Naive Bayes code")
 
 
-![L1_2](https://github.com/changhuixu/sentiment_analysis/blob/master/demo/svm/svm-demo-screenshot.png "SVM code")
+![L1_2](https://github.com/changhuixu/sentiment-analysis-using-python/blob/master/svm/svm-demo-screenshot.png "SVM code")
 
 ### End
 last modified 04/16/2016
