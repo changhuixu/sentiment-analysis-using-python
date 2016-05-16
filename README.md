@@ -21,7 +21,7 @@ python naive.py
 ```
 
 ## screenshots
-![L1_1](https://github.com/changhuixu/sentiment_analysis/blob/master/demo/naive/naive-demo-screenshot.png "Naive Bayes code")
+![L1_1](https://github.com/changhuixu/sentiment-analysis-using-python/blob/master/naive/naive-demo-screenshot.png "Naive Bayes code")
 
 
 ![L1_2](https://github.com/changhuixu/sentiment_analysis/blob/master/demo/svm/svm-demo-screenshot.png "SVM code")
